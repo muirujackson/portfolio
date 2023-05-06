@@ -6,7 +6,7 @@ $(document).ready( function(){
     })
 
     var typed = new Typed('.typed', {
-        strings: ['<i>Software</i> Engineer', '&amp; Web Developer.'],
+        strings: ['<i>Software</i> Engineer', 'Web Developer.'],
         typeSpeed: 70,
         backSpeed: 20,
         backDelay: 500,
